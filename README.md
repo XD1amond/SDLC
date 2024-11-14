@@ -49,3 +49,6 @@ An underwater reimagining of the classic Asteroids game where you pilot a submar
 - Underwater sound effects from [source]
 - Fish sprite designs by [artist]
 - Special thanks to the testing team
+### Contributors
+- Paden Beck
+- Dakota Kraskov
